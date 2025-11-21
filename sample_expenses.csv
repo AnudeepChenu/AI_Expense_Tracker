@@ -1,0 +1,181 @@
+Date,Amount (INR),Category,Description
+2024-01-01,845.2,Dining Out,Pizza night
+2024-01-02,4070.45,Groceries,Monthly groceries at D-Mart
+2024-01-03,1435.14,Health,Doctor consultation
+2024-01-04,888.51,Shopping,Footwear
+2024-01-05,1117.99,Dining Out,Cafe visit
+2024-01-05,1516.45,Transport,Parking fee
+2024-01-05,1188.09,Transport,Fuel for bike
+2024-01-07,632.04,Entertainment,Bowling night
+2024-01-08,918.6,Utilities,Internet bill
+2024-01-09,1504.04,Utilities,Electricity bill
+2024-01-10,16777.67,Rent,Apartment rent payment
+2024-01-10,4742.58,Groceries,Online grocery order
+2024-01-11,4348.43,Groceries,Supermarket purchase
+2024-01-12,1781.01,Shopping,Online purchase
+2024-01-15,1109.35,Health,Pharmacy purchase
+2024-01-15,1610.63,Shopping,New clothes
+2024-01-16,765.3,Utilities,Gas bill
+2024-01-19,566.17,Dining Out,Takeaway food
+2024-01-19,975.66,Dining Out,Dinner at restaurant
+2024-01-19,4568.07,Groceries,General store purchase
+2024-01-20,4467.16,Groceries,Vegetable market purchase
+2024-01-21,950.49,Transport,Uber ride
+2024-01-22,764.02,Entertainment,Netflix subscription
+2024-01-24,1150.32,Utilities,Water bill
+2024-01-25,2099.19,Insurance,Health insurance premium
+2024-01-26,451.94,Entertainment,Movie tickets
+2024-01-26,6948.73,Savings,Monthly SIP investment
+2024-01-29,1157.22,Transport,Auto fare
+2024-01-30,635.86,Dining Out,Lunch with friends
+2024-01-30,749.85,Transport,Metro card recharge
+2024-02-01,1712.3,Shopping,Online purchase
+2024-02-01,1171.83,Utilities,Water bill
+2024-02-02,4382.85,Groceries,Supermarket purchase
+2024-02-02,5043.97,Groceries,General store purchase
+2024-02-03,677.79,Dining Out,Lunch with friends
+2024-02-05,5141.78,Groceries,Online grocery order
+2024-02-06,726.04,Transport,Metro card recharge
+2024-02-07,963.71,Shopping,Footwear
+2024-02-08,955.73,Transport,Uber ride
+2024-02-08,1237.57,Dining Out,Cafe visit
+2024-02-10,1314.31,Transport,Fuel for bike
+2024-02-10,802.65,Dining Out,Pizza night
+2024-02-11,4127.46,Groceries,Monthly groceries at D-Mart
+2024-02-11,17131.79,Rent,Apartment rent payment
+2024-02-11,7195.77,Savings,Monthly SIP investment
+2024-02-11,854.28,Dining Out,Dinner at restaurant
+2024-02-14,1091.05,Utilities,Internet bill
+2024-02-16,1540.21,Transport,Parking fee
+2024-02-17,1360.74,Shopping,New clothes
+2024-02-18,1485.79,Health,Doctor consultation
+2024-02-19,1028.97,Transport,Auto fare
+2024-02-19,1393.29,Utilities,Electricity bill
+2024-02-21,723.74,Utilities,Gas bill
+2024-02-21,3989.76,Groceries,Vegetable market purchase
+2024-02-23,630.43,Entertainment,Bowling night
+2024-02-23,1865.63,Insurance,Health insurance premium
+2024-02-23,652.07,Dining Out,Takeaway food
+2024-02-26,476.25,Entertainment,Movie tickets
+2024-02-27,737.78,Entertainment,Netflix subscription
+2024-02-27,1254.49,Health,Pharmacy purchase
+2024-03-01,629.7,Entertainment,Bowling night
+2024-03-03,5094.35,Groceries,Online grocery order
+2024-03-03,782.31,Dining Out,Pizza night
+2024-03-05,1167.64,Health,Pharmacy purchase
+2024-03-06,765.49,Utilities,Gas bill
+2024-03-08,458.96,Entertainment,Movie tickets
+2024-03-10,4812.64,Groceries,General store purchase
+2024-03-11,955.02,Dining Out,Dinner at restaurant
+2024-03-11,16223.68,Rent,Apartment rent payment
+2024-03-12,1254.64,Utilities,Water bill
+2024-03-13,752.73,Entertainment,Netflix subscription
+2024-03-14,1301.6,Dining Out,Cafe visit
+2024-03-14,611.59,Dining Out,Takeaway food
+2024-03-14,1160.76,Transport,Fuel for bike
+2024-03-15,1182.54,Transport,Auto fare
+2024-03-15,768.54,Dining Out,Lunch with friends
+2024-03-15,7347.84,Savings,Monthly SIP investment
+2024-03-15,1596.68,Utilities,Electricity bill
+2024-03-16,1617.07,Health,Doctor consultation
+2024-03-18,4460.21,Groceries,Vegetable market purchase
+2024-03-19,936.36,Shopping,Footwear
+2024-03-19,4562.07,Groceries,Supermarket purchase
+2024-03-21,821.43,Transport,Metro card recharge
+2024-03-22,884.4,Transport,Uber ride
+2024-03-23,1044.52,Utilities,Internet bill
+2024-03-23,1405.97,Transport,Parking fee
+2024-03-24,1500.65,Shopping,New clothes
+2024-03-27,1904.69,Shopping,Online purchase
+2024-03-27,4073.7,Groceries,Monthly groceries at D-Mart
+2024-03-30,2157.46,Insurance,Health insurance premium
+2024-04-01,788.15,Utilities,Gas bill
+2024-04-01,1174.73,Health,Pharmacy purchase
+2024-04-02,1541.02,Utilities,Electricity bill
+2024-04-02,1138.52,Transport,Fuel for bike
+2024-04-05,1221.46,Utilities,Water bill
+2024-04-07,964.01,Dining Out,Dinner at restaurant
+2024-04-08,842.46,Shopping,Footwear
+2024-04-08,16500.92,Rent,Apartment rent payment
+2024-04-08,1031.06,Utilities,Internet bill
+2024-04-08,812.96,Dining Out,Pizza night
+2024-04-09,1988.16,Insurance,Health insurance premium
+2024-04-09,807.92,Transport,Metro card recharge
+2024-04-10,546.01,Entertainment,Movie tickets
+2024-04-11,4402.4,Groceries,Supermarket purchase
+2024-04-12,5037.66,Groceries,Online grocery order
+2024-04-13,1165.43,Transport,Auto fare
+2024-04-13,1461.6,Health,Doctor consultation
+2024-04-16,4518.69,Groceries,Vegetable market purchase
+2024-04-17,750.15,Dining Out,Lunch with friends
+2024-04-17,1577.02,Shopping,New clothes
+2024-04-19,645.76,Entertainment,Bowling night
+2024-04-19,1600.55,Transport,Parking fee
+2024-04-20,574.06,Dining Out,Takeaway food
+2024-04-20,7698.44,Savings,Monthly SIP investment
+2024-04-21,808.12,Entertainment,Netflix subscription
+2024-04-21,1804.91,Shopping,Online purchase
+2024-04-22,4368.71,Groceries,General store purchase
+2024-04-24,1226.87,Dining Out,Cafe visit
+2024-04-26,3871.22,Groceries,Monthly groceries at D-Mart
+2024-04-28,865.54,Transport,Uber ride
+2024-05-02,874.49,Dining Out,Pizza night
+2024-05-03,983.33,Shopping,Footwear
+2024-05-03,651.13,Dining Out,Takeaway food
+2024-05-03,1562.13,Transport,Parking fee
+2024-05-04,863.09,Transport,Uber ride
+2024-05-04,1149.14,Dining Out,Cafe visit
+2024-05-05,723.9,Utilities,Gas bill
+2024-05-07,2006.51,Insurance,Health insurance premium
+2024-05-10,4174.72,Groceries,Monthly groceries at D-Mart
+2024-05-11,1160.42,Transport,Fuel for bike
+2024-05-11,3833.92,Groceries,Vegetable market purchase
+2024-05-11,4391.7,Groceries,Supermarket purchase
+2024-05-13,1187.74,Health,Pharmacy purchase
+2024-05-14,759.23,Transport,Metro card recharge
+2024-05-14,7129.55,Savings,Monthly SIP investment
+2024-05-16,732.23,Dining Out,Lunch with friends
+2024-05-16,919.05,Utilities,Internet bill
+2024-05-16,1105.27,Utilities,Water bill
+2024-05-18,941.68,Dining Out,Dinner at restaurant
+2024-05-18,1469.18,Shopping,New clothes
+2024-05-19,1055.3,Transport,Auto fare
+2024-05-20,622.56,Entertainment,Bowling night
+2024-05-21,509.03,Entertainment,Movie tickets
+2024-05-21,829.12,Entertainment,Netflix subscription
+2024-05-24,1844.85,Shopping,Online purchase
+2024-05-24,1465.81,Health,Doctor consultation
+2024-05-26,4614.63,Groceries,Online grocery order
+2024-05-26,4272.7,Groceries,General store purchase
+2024-05-28,1534.74,Utilities,Electricity bill
+2024-05-28,17760.41,Rent,Apartment rent payment
+2024-06-02,848.86,Entertainment,Netflix subscription
+2024-06-02,873.22,Shopping,Footwear
+2024-06-03,986.34,Dining Out,Dinner at restaurant
+2024-06-05,1118.62,Health,Pharmacy purchase
+2024-06-06,1505.73,Transport,Parking fee
+2024-06-07,794.99,Dining Out,Pizza night
+2024-06-08,1409.57,Health,Doctor consultation
+2024-06-09,799.01,Utilities,Gas bill
+2024-06-09,1044.94,Transport,Auto fare
+2024-06-10,1284.91,Utilities,Water bill
+2024-06-10,729.69,Dining Out,Lunch with friends
+2024-06-11,800.61,Transport,Metro card recharge
+2024-06-11,887.87,Transport,Uber ride
+2024-06-11,5127.53,Groceries,Online grocery order
+2024-06-16,19432.35,Rent,Apartment rent payment
+2024-06-16,3562.67,Groceries,Monthly groceries at D-Mart
+2024-06-18,1456.32,Shopping,New clothes
+2024-06-18,1822.7,Shopping,Online purchase
+2024-06-18,941.74,Utilities,Internet bill
+2024-06-19,4833.52,Groceries,Supermarket purchase
+2024-06-21,4929.85,Groceries,General store purchase
+2024-06-22,462.71,Entertainment,Movie tickets
+2024-06-23,542.18,Dining Out,Takeaway food
+2024-06-24,6407.24,Savings,Monthly SIP investment
+2024-06-26,2129.79,Insurance,Health insurance premium
+2024-06-27,1182.14,Transport,Fuel for bike
+2024-06-27,607.28,Entertainment,Bowling night
+2024-06-28,1225.54,Dining Out,Cafe visit
+2024-06-28,4491.43,Groceries,Vegetable market purchase
+2024-06-28,1404.37,Utilities,Electricity bill
